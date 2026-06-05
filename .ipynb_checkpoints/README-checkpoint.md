@@ -40,6 +40,8 @@ project/
 
 ### Step 1: Data Collection
 
+**Source Website:** https://quotes.toscrape.com/
+
 The scraper visits each page of the website and downloads the HTML content.
 
 Example pages:
@@ -98,6 +100,10 @@ clean_data/data.csv
 * Pages Scraped: 10
 * Quotes Extracted: 100
 * Authors Extracted: 100
+
+## GitHub Repository
+
+https://github.com/Ashwakkattubadi/Quotes-Scraping.git
 
 ## Author
 
